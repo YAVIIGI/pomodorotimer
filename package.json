@@ -1,0 +1,13 @@
+{
+  "name": "ya7gi.pomodorotimer",
+  "displayName": "YA7GI - PomodoroTimer",
+  "version": "1.0.0",
+  "unity": "2022.3",
+  "description": "Pomodoro Timer",
+  "author": {
+    "name": "YA7GI"
+  },
+  "vpmDependencies": {
+    "com.vrchat.worlds": ">=3.0.0"
+  }
+}
